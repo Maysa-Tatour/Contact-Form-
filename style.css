@@ -103,7 +103,7 @@ input,textarea,button {
   input:focus, textarea:focus, button:focus, select:focus {
     outline: 3px solid #0C7D69;
     outline-offset: 2px; 
-  
+  }
   .error-message {
     color: red;
     font-size: 14px;
